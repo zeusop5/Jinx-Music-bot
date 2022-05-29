@@ -1,2 +1,33 @@
-# Ayano-Music
-🤟𝐴𝑁 𝐴𝑀𝐴𝑧𝑖𝑛𝑔 𝑡𝑒𝑙𝑒𝑔𝑟𝑎𝑚 𝑚𝑢𝑠𝑖𝑐 𝑏𝑜𝑡..✨ 😙𝑇ℎ𝑖𝑠 𝑏𝑜𝑡 𝑐𝑎𝑛 𝑝𝑙𝑎𝑦 𝑙𝑎𝑔 𝐹𝑅𝐸𝐸 𝑀𝑈𝑆𝐼𝐶 𝐸𝑠𝑎𝑦 𝑎𝑛𝑑 𝑠𝑖𝑚𝑝𝑙𝑒 𝑎𝑤𝑠𝑜𝑚𝑒 𝑠𝑡𝑎𝑟𝑡 𝑝𝑙𝑢𝑔𝑖𝑛𝑠🥀
+# Cʜᴇᴄᴋ ᴏᴜʀ ɴᴇᴡ ᴍᴜsɪᴄ ʙᴏᴛ ʀᴇᴘᴏ ᴡʜɪᴄʜ ɪs ᴀʏᴀɴᴏ ᴍᴜsɪᴄ ʙᴏᴛ ᴛʜᴀᴛ ᴄᴀɴ ᴘʟᴀʏ ʟᴀɢ ғʀᴇᴇ ᴍᴜsɪᴄ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ sᴄʀᴏʟʟ ᴅᴏᴡɴ ᴛᴏ ᴍᴀᴋᴇ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴀʏᴀɴᴏ ᴍᴜsɪᴄ sɪᴍᴘʟᴇ ᴀɴᴅ ᴇᴀsʏ ᴅᴇᴘʟᴏʏ :
+
+𝐈𝐅 𝐘𝐎𝐔 𝐋𝐈𝐊𝐄 𝐓𝐇𝐈𝐒 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓 𝐑𝐄𝐏𝐎 𝐆𝐢𝐕𝐄 𝐀 𝐒𝐓𝐀𝐑 🌟
+
+
+𝑹𝑬𝑷𝑶 ㊛ [SongProBot 🎻](https://GitHub.Com/zeusop5/Ayano-Music)
+
+𝐁𝐎𝐓  : [💜Aʏᴀɴᴏ ᴍᴜsɪᴄ ʙᴏᴛ ☊](https://t.me/Ayano_Music_bot)
+
+## 𝙻𝙸𝚂𝚃𝙴𝙽 𝙻𝙰𝙶 𝙵𝚁𝙴𝙴 𝙼𝚄𝚂𝙸𝙲
+3X Fast Telethon Based Bot ❣️
+
+Open Source Bot 👨🏻‍💻💫
+
+Demo : [𝐴𝑦𝑎𝑛𝑜 𝑚𝑢𝑠𝑖𝑐 𝑏𝑜𝑡💜](https://t.me/Ayano_Music_bot) 🍂
+
+EཽAཽSཽYཽ TཽOཽ DཽEཽPཽLཽOཽYཽ ✨🥀
+
+# Click Below Image to Deploy
+[![Deploy](https://telegra.ph/file/33b492308575ab527216f.jpg)](https://heroku.com/deploy?template=https://github.com/zeusop5/Ayano-music)
+
+
+# DEPLOY
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SongPlayRoBot.git)
+
+## Group
+You can also join our support group [HERE!](https://t.me/) ✌️
+
+# Report error
+Report your problem along with your name to This Person 📲 [mm🧑‍💻](https://t.me/IMVETRI) 😪
+
+
+
