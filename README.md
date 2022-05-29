@@ -30,7 +30,7 @@ EཽAཽSཽYཽ TཽOཽ DཽEཽPཽLཽOཽYཽ ✨🥀
 You can also join our support group [HERE!](https://t.me/) ✌️
 
 # Report error
-Report your problem along with your name to This Person 📲 [mm🧑‍💻](https://t.me/IMVETRI) 😪
+Report your problem along with your name to This Person 📲 [𝑍𝐸𝑈𝑆](https://t.me/itz_unknown_person) 😪
 
 
 
