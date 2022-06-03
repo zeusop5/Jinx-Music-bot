@@ -146,7 +146,7 @@ async def play(_, message: Message):
                     invitelink = await _.export_chat_invite_link(chid)
                 except:
                     await lel.edit(
-                        "**💥 𝐀𝐭 𝐅𝐢𝐫𝐬𝐭 🥀 𝐌𝐚𝐤𝐞 ♥️ 𝐌𝐞 𝐀𝐝𝐦𝐢𝐧 😗 ...**")
+                        "**💥 A༙T༙ F༙I༙R༙S༙T༙ 🥀 M༙a༙k༙e༙ M༙E༙ A༙d༙m༙i༙n༙ 😗 ...**")
                     return
 
                 try:
@@ -158,12 +158,12 @@ async def play(_, message: Message):
                     pass
                 except Exception:
                     await lel.edit(
-                        f"**🥀 𝐏𝐥𝐞𝐚𝐬𝐞 𝐌𝐚𝐧𝐮𝐚𝐥𝐥𝐲 🌸 𝐀𝐝𝐝 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 @{ASSISTANT_USERNAME} 🎸 𝐢𝐧 𝐓𝐡𝐢𝐬 𝐆𝐫𝐨𝐮𝐩 ♥️ 𝐎𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐓𝐨 𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 @{OWNER_USERNAME} ✨ **")
+                        f"**🥀 𝐏𝐥𝐞𝐚𝐬𝐞 𝐌𝐚𝐧𝐮𝐚𝐥𝐥𝐲 🌸 𝐀𝐝𝐝 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 @{ASSISTANT_USERNAME} ♡ 𝐢𝐧 𝐓𝐡𝐢𝐬 𝐆𝐫𝐨𝐮𝐩 ♥ ᴏʀ 𝐂ᴏɴᴛᴀᴄᴛ 𝐓ᴏ 𝐁ᴏᴛ 𝐎ᴡɴᴇʀ @{OWNER_USERNAME} ✨ **")
     try:
         await USER.get_chat(chid)
     except:
         await lel.edit(
-            f"**🥀 𝐏𝐥𝐞𝐚𝐬𝐞 𝐌𝐚𝐧𝐮𝐚𝐥𝐥𝐲 🌸 𝐀𝐝𝐝 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 @{ASSISTANT_USERNAME} 🎸 𝐢𝐧 𝐓𝐡𝐢𝐬 𝐆𝐫𝐨𝐮𝐩 ♥️ 𝐎𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐓𝐨 𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 @{OWNER_USERNAME}) ✨ **")
+            f"**🥀 𝐏𝐥𝐞𝐚𝐬𝐞 𝐌𝐚𝐧𝐮𝐚𝐥𝐥𝐲 🌸 𝐀𝐝𝐝 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 @{ASSISTANT_USERNAME} ♡ 𝐢𝐧 𝐓𝐡𝐢𝐬 𝐆𝐫𝐨𝐮𝐩 ♥ ᴏʀ 𝐂ᴏɴᴛᴀᴄᴛ 𝐓ᴏ 𝐁ᴏᴛ 𝐎ᴡɴᴇʀ @{OWNER_USERNAME}) ✨ **")
         return
     
     audio = (
@@ -176,7 +176,7 @@ async def play(_, message: Message):
     if audio:
         if round(audio.duration / 60) > DURATION_LIMIT:
             raise DurationLimitError(
-                f"**💥 𝐏𝐥𝐚𝐲 🔊 𝐌𝐮𝐬𝐢𝐜 ✖️ 𝐋𝐞𝐬𝐬 ⚡️\n🤟 𝐓𝐡𝐚𝐧⚡️ {DURATION_LIMIT} 💞 𝐌𝐢𝐧𝐮𝐭𝐞 ...**"
+                f"**💥 𝐏𝐥𝐚𝐲 🎧 𝐌𝐮𝐬𝐢𝐜 ✖️ 𝐋𝐞𝐬𝐬 ⚡️\n🤟 𝐓𝐡𝐚𝐧⚡️ {DURATION_LIMIT} 💞 𝐌𝐢𝐧𝐮𝐭𝐞 ...**"
             )
 
         file_name = get_file_name(audio)
@@ -190,21 +190,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 💫️",
+                            text="✨𝙊𝙒𝙉𝜩𝙍'𝐱𝐃🥀",
                             url=f"https://t.me/{OWNER_USERNAME}")
                ],
                [
                     InlineKeyboardButton(
-                            text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
+                            text="🥀𝙐𝙋𝘿𝘼𝙏𝜩𝙎✨",
                             url=f"{UPDATES_CHANNEL}"),
                             
                     InlineKeyboardButton(
-                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
+                            text="💻𝙎𝙐𝙋𝙋𝙊𝙍𝙏💬",
                             url=f"{SUPPORT_GROUP}")
                ],
                [
                         InlineKeyboardButton(
-                            text=" 𝐂𝐇𝐈𝐋𝐋 𝐙𝐨𝐧𝐞🍂",
+                            text="🌸💜𝘾𝙃𝘼𝙏𝙏𝙄𝙉𝙂•𝙂𝙍𝙋✨💫",
                             url=f"{PROFILE_CHANNEL}")
                    
                 ]
@@ -243,21 +243,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="⭐ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 💫️",
+                            text="✨𝙊𝙒𝙉𝜩𝙍'𝐱𝐃🥀",
                             url=f"https://t.me/{OWNER_USERNAME}")
                ],
                [
                     InlineKeyboardButton(
-                            text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
+                            text="🥀𝙐𝙋𝘿𝘼𝙏𝜩𝙎✨",
                             url=f"{UPDATES_CHANNEL}"),
                             
                     InlineKeyboardButton(
-                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
+                            text="💻𝙎𝙐𝙋𝙋𝙊𝙍𝙏💬",
                             url=f"{SUPPORT_GROUP}")
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 𝐂𝐇𝐈𝐋𝐋 𝐙𝐎𝐍𝐄 🍂",
+                            text="🌸💜𝘾𝙃𝘼𝙏𝙏𝙄𝙉𝙂•𝙂𝙍𝙋✨💫",
                             url=f"{PROFILE_CHANNEL}")
                    
                 ]
@@ -273,21 +273,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="⭐ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 💫",
+                            text="✨𝙊𝙒𝙉𝜩𝙍'𝐱𝐃🥀",
                             url=f"https://t.me/{OWNER_USERNAME}")
                ],
                [
                     InlineKeyboardButton(
-                            text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
+                            text="🥀𝙐𝙋𝘿𝘼𝙏𝜩𝙎✨",
                             url=f"{UPDATES_CHANNEL}"),
                             
                     InlineKeyboardButton(
-                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
+                            text="💻𝙎𝙐𝙋𝙋𝙊𝙍𝙏💬",
                             url=f"{SUPPORT_GROUP}")
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 𝐂𝐇𝐈𝐋𝐋 𝐙𝐎𝐍𝐄🍂",
+                            text="🌸💜𝘾𝙃𝘼𝙏𝙏𝙄𝙉𝙂•𝙂𝙍𝙋✨💫",
                             url=f"{PROFILE_CHANNEL}")
                    
                 ]
@@ -305,7 +305,7 @@ async def play(_, message: Message):
     else:
         if len(message.command) < 2:
             return await lel.edit(
-                "**🤖 𝐆𝐢𝐯𝐞 🙃 𝐌𝐮𝐬𝐢𝐜  𝐍𝐚𝐦𝐞 𝐍𝐨𝐨𝐛\n💞 𝐓𝐨 🔊 𝐏𝐥𝐚𝐲 🥀 𝐒𝐨𝐧𝐠 🌷...**"
+                "**🤖 𝐆𝐢𝐯𝐞 🙃 𝐌𝐮𝐬𝐢𝐜  𝐍𝐚𝐦𝐞 𝐍𝐨𝐨𝐛\n💞 𝐓𝐨  𝐏𝐥𝐚𝐲 🥀 𝐒𝐨𝐧𝐠 🌷...**"
             )
         await lel.edit("**🔄 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 ...**")
         query = message.text.split(None, 1)[1]
@@ -341,21 +341,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="⭐ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 💫️",
+                            text="✨𝙊𝙒𝙉𝜩𝙍'𝐱𝐃🥀",
                             url=f"https://t.me/{OWNER_USERNAME}")
                ],
                [
                     InlineKeyboardButton(
-                            text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
+                            text="🥀𝙐𝙋𝘿𝘼𝙏𝜩𝙎✨",
                             url=f"{UPDATES_CHANNEL}"),
                             
                     InlineKeyboardButton(
-                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
+                            text="💻𝙎𝙐𝙋𝙋𝙊𝙍𝙏💬",
                             url=f"{SUPPORT_GROUP}")
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
+                            text="🌸💜𝘾𝙃𝘼𝙏𝙏𝙄𝙉𝙂•𝙂𝙍𝙋✨💫",
                             url=f"{PROFILE_CHANNEL}")
                    
                 ]
@@ -439,10 +439,10 @@ async def skip(_, message: Message):
         queues.task_done(chat_id)
         
         if queues.is_empty(chat_id):
-            await message.reply_text("**🥀 𝑸𝒖𝒆𝒖𝒆 𝑬𝒎𝒑𝒕𝒚, 𝑳𝒆𝒂𝒗𝒊𝒏𝒈 𝑽𝑪 ✨ ...**") 
+            await message.reply_text("**🙄 𝑸𝒖𝒆𝒖𝒆 𝑬𝒎𝒑𝒕𝒚, 𝑳𝒆𝒂𝒗𝒊𝒏𝒈 𝑽𝑪 😴 ...**") 
             await clientbot.pytgcalls.leave_group_call(chat_id)
         else:
-            await message.reply_text("**⏩ 𝐒𝐤𝐢𝐩𝐩𝐞𝐝 🌷 ...**") 
+            await message.reply_text("**⏩ 𝐒𝐤𝐢𝐩𝐩𝐞𝐝 😒 ...**") 
             await clientbot.pytgcalls.change_stream(
                 chat_id, 
                 InputStream(
@@ -465,7 +465,7 @@ async def stop(_, message: Message):
         pass
 
     await clientbot.pytgcalls.leave_group_call(message.chat.id)
-    await message.reply_text("**❌ 𝐒𝐭𝐨𝐩𝐩𝐞𝐝 🌷 ...**"
+    await message.reply_text("**❌ 𝐒𝐭𝐨𝐩𝐩𝐞𝐝✖️...**"
     )
 
 
@@ -480,4 +480,4 @@ async def update_admin(client, message):
     for u in new_ads:
         new_admins.append(u.user.id)
     a[message.chat.id] = new_admins
-    await message.reply_text("**🔥 𝐑𝐞𝐥𝐨𝐚𝐝𝐞𝐝 🌷 ...**")
+    await message.reply_text("**♻️𝐑𝐞𝐥𝐨𝐚𝐝𝐞𝐝♻️...**")
