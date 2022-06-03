@@ -29,15 +29,15 @@ async def start_private(client: Client, message: Message):
                     )
                 ],
                 [
-                    InlineKeyboardButton("🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 ✨", url=f"https://t.me/{OWNER_USERNAME}"),
-                    InlineKeyboardButton("🖤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫'𝐱𝐃 💥", url=f"https://t.me/MAGNESIUM_XD"),
+                    InlineKeyboardButton("✨𝙊𝙒𝙉𝜩𝙍'𝐱𝐃🥀", url=f"https://t.me/{OWNER_USERNAME}"),
+                    InlineKeyboardButton("🖤 𝘿𝜩𝙑𝙀𝙇𝙊𝙋𝜩𝙍'𝐱𝐃 💥", url=f"https://t.me/MAGNESIUM_XD"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "💝 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐭 💫", url=f"{SUPPORT_GROUP}"
+                        "💻𝑆𝑈𝑃𝑃𝑂𝑅𝑇•𝐶𝐻𝐴𝑇💌", url=f"{SUPPORT_GROUP}"
                     ),
                     InlineKeyboardButton(
-                        "🌸 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ✨", url=f"{UPDATES_CHANNEL}"
+                        "🥀𝙐𝙋𝘿𝘼𝙏𝜩𝙎•𝘾𝙃𝘼𝙉𝙉𝜩𝙇📡", url=f"{UPDATES_CHANNEL}"
                     ),
                 ],
             ]
