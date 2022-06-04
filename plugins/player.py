@@ -362,7 +362,7 @@ async def play(_, message: Message):
             ]
         )
 
-        if (dur / 60) > DURATION_LIMIT:
+        if (dur / 900) > DURATION_LIMIT:
             await lel.edit(
                 f"**💥 𝐏𝐥𝐚𝐲 🔊 𝐌𝐮𝐬𝐢𝐜 ✖️ 𝐋𝐞𝐬𝐬 ⚡️\n🤟 𝐓𝐡𝐚𝐧⚡️ {DURATION_LIMIT} 💞 𝐌𝐢𝐧𝐮𝐭𝐞 ...**"
             )
