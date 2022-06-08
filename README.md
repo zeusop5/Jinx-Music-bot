@@ -11,7 +11,7 @@
 𝐁𝐎𝐓  : [💜Aʏᴀɴᴏ ᴍᴜsɪᴄ ʙᴏᴛ ☊](https://t.me/Ayano_Music_bot)
 
 ## 𝙻𝙸𝚂𝚃𝙴𝙽 𝙻𝙰𝙶 𝙵𝚁𝙴𝙴 𝙼𝚄𝚂𝙸𝙲
-3X Fast Telethon Based Bot ❣️
+3X Fast Bot ❣️
 
 Open Source Bot 👨🏻‍💻💫
 
