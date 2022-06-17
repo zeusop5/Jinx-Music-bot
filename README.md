@@ -6,16 +6,16 @@
 𝐈𝐅 𝐘𝐎𝐔 𝐋𝐈𝐊𝐄 𝐓𝐇𝐈𝐒 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓 𝐑𝐄𝐏𝐎 𝐆𝐢𝐕𝐄 𝐀 𝐒𝐓𝐀𝐑 🌟
 
 
-𝑹𝑬𝑷𝑶 ㊛ [𝑎𝑦𝑎𝑛𝑜 𝑚𝑢𝑠𝑖𝑐 𝑏𝑜𝑡🦋](https://GitHub.Com/zeusop5/Jinx-Music)
+𝑹𝑬𝑷𝑶 ㊛ [ 𝐽𝐼𝑁𝑋 𝑚𝑢𝑠𝑖𝑐 𝑏𝑜𝑡🦋](https://GitHub.Com/zeusop5/Jinx-Music)
 
-𝐁𝐎𝐓  : [💜Aʏᴀɴᴏ ᴍᴜsɪᴄ ʙᴏᴛ ☊](https://t.me/Jinx_Music_bot)
+𝐁𝐎𝐓  : [💜Jinx ᴍᴜsɪᴄ ʙᴏᴛ ☊](https://t.me/Jinx_Music_bot)
 
 ## 𝙻𝙸𝚂𝚃𝙴𝙽 𝙻𝙰𝙶 𝙵𝚁𝙴𝙴 𝙼𝚄𝚂𝙸𝙲
 3X Fast Bot ❣️
 
 Open Source Bot 👨🏻‍💻💫
 
-Demo : [𝐴𝑦𝑎𝑛𝑜 𝑚𝑢𝑠𝑖𝑐 𝑏𝑜𝑡💜](https://t.me/Jinx_Music_bot) 🍂
+Demo : [Jinx 𝑚𝑢𝑠𝑖𝑐 𝑏𝑜𝑡💜](https://t.me/Jinx_Music_bot) 🍂
 
 EཽAཽSཽYཽ TཽOཽ DཽEཽPཽLཽOཽYཽ ✨🥀
 
