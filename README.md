@@ -20,11 +20,11 @@ Demo : [Jinx 𝑚𝑢𝑠𝑖𝑐 𝑏𝑜𝑡💜](https://t.me/Jinx_Music_bot)
 EཽAཽSཽYཽ TཽOཽ DཽEཽPཽLཽOཽYཽ ✨🥀
 
 # Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/33b492308575ab527216f.jpg)](https://heroku.com/deploy?template=https://github.com/zeusop5/Ayano-music)
+[![Deploy](https://telegra.ph/file/99d245e0a72251b595337.jpg)](https://heroku.com/deploy?template=https://github.com/zeusop5/Jinx-music-bot)
 
 
 # DEPLOY
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeusop5/Ayano-music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeusop5/Jinx-music-bot)
 
 ## Group
 You can also join our support group [HERE!](https://t.me/Jinx_support) ✌️
